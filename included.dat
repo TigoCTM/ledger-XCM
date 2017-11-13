@@ -1,0 +1,32 @@
+;tigoctm
+
+2017-11-01 * ICO Issue
+    tigoctm:Assets:ICO:1              100000 XCM
+    tigoctm:Liabilities              -100000 XCM
+    tigoctm:Assets:ICO:2              250000 XCM
+    tigoctm:Liabilities              -250000 XCM
+    tigoctm:Assets:ICO:3              500000 XCM
+    tigoctm:Liabilities              -500000 XCM
+    tigoctm:Assets:ICO:4              750000 XCM
+    tigoctm:Liabilities              -750000 XCM
+    tigoctm:Assets:ICO:5              1000000 XCM
+    tigoctm:Liabilities              -1000000 XCM
+    tigoctm:Assets:ICO:6              1250000 XCM
+    tigoctm:Liabilities              -1250000 XCM
+    tigoctm:Assets:ICO:7              1500000 XCM
+    tigoctm:Liabilities              -1500000 XCM
+    tigoctm:Assets:ICO:8              2000000 XCM
+    tigoctm:Liabilities              -2000000 XCM
+    tigoctm:Assets:ICO:9              3000000 XCM
+    tigoctm:Liabilities              -3000000 XCM
+    tigoctm:Assets:ICO:10              5000000 XCM
+    tigoctm:Liabilities              -5000000 XCM
+
+include 0x2d914EE92914C3E1CCad74cc479396/included.dat
+include 0x9DAb9E07Fd36122a7064769Af0dDe5/included.dat
+include 0xcAB5bbdB90f57853b59abA182c4501B483daB8eD/included.dat
+include mizim/included.dat
+include 0x446094a928951BEFC34D4878962239/included.dat
+include 0xC4BB4Eb0287237B60459490DF86a17/included.dat
+include 0xf8915E4118b5ACEa257b2Ff9D0548c/included.dat
+

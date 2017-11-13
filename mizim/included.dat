@@ -1,0 +1,12 @@
+;mizim:tigoctm
+
+2017-11-12 * XCM guld swap
+    tigoctm:Assets:ICO:1             -98958.596 XCM
+    tigoctm:Expenses:ICO:1            98958.596 XCM
+    mizim:Assets                     98958.596 XCM
+    mizim:Income:XCM-swap            -98958.596 XCM
+    tigoctm:Assets:ICO:2             -51000     XCM
+    tigoctm:Expenses:ICO:2            51000 XCM
+    mizim:Assets                     51000 XCM
+    mizim:Income:XCM-swap            -51000 XCM
+    
