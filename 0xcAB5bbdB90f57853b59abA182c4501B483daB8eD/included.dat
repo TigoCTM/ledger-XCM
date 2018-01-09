@@ -4,3 +4,7 @@
     tigoctm:Assets:ICO:1             -9.404 XCM
     tigoctm:Assets:Payable           9.404 XCM
 
+2018-01-09 * XCM Distribution
+    tigoctm:Assets:Payable           -9.404 XCM
+    tigoctm:Expenses:ICO             9.404 XCM
+
